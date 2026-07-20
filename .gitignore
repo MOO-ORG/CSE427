@@ -1,0 +1,9 @@
+#macos 
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+#ide
+.idea
+.vscode

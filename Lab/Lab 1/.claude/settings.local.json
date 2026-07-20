@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import numpy, pandas, matplotlib, jupyter_core; print\\('ok'\\)\")"
+    ]
+  }
+}
